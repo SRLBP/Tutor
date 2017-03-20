@@ -1,4 +1,11 @@
-$ help
+$help
+Эти команды оболочки определяются внутри. Введите `help ', чтобы увидеть этот список.
+Введите имя `help name", чтобы узнать больше о функции `name '.
+Используйте `info bash", чтобы узнать больше об оболочке в целом.
+Используйте `man -k ' или `info', чтобы узнать больше о командах которых нет в этом списке.
+
+Звездочка (*) рядом с именем означает, что команда отключена.
+help
 GNU bash, version 4.3.46(2)-release (x86_64-pc-msys)
 These shell commands are defined internally.  Type `help' to see this list.
 Type `help name' to find out more about the function `name'.
